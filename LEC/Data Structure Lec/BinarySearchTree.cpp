@@ -117,6 +117,7 @@ int main(){
 	insert(root, 2);
 	insert(root, 100);
 	insert(root, 90);
+	insert(root, 75);
 	
 	displayInfix(root);
 	printf("\n");
